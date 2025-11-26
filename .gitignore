@@ -1,4 +1,19 @@
-﻿.idea/
+# IDE
+.idea/
+*.iml
+*.iws
+
+# Python
 __pycache__/
-.venv/
 *.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
